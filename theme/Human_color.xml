@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<a:clrScheme name="Human" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+   <a:dk1>
+      <a:sysClr val="windowText" lastClr="000000"/>
+   </a:dk1>
+   <a:lt1>
+      <a:sysClr val="window" lastClr="FFFFFF"/>
+   </a:lt1>
+   <a:dk2>
+      <a:srgbClr val="795339"/>
+   </a:dk2>
+   <a:lt2>
+      <a:srgbClr val="F7EEDD"/>
+   </a:lt2>
+   <a:accent1>
+      <a:srgbClr val="AD2E27"/>
+   </a:accent1>
+   <a:accent2>
+      <a:srgbClr val="3F3D66"/>
+   </a:accent2>
+   <a:accent3>
+      <a:srgbClr val="17517A"/>
+   </a:accent3>
+   <a:accent4>
+      <a:srgbClr val="877E48"/>
+   </a:accent4>
+   <a:accent5>
+      <a:srgbClr val="AF8B1E"/>
+   </a:accent5>
+   <a:accent6>
+      <a:srgbClr val="A35E21"/>
+   </a:accent6>
+   <a:hlink>
+      <a:srgbClr val="9B7300"/>
+   </a:hlink>
+   <a:folHlink>
+      <a:srgbClr val="D6A73B"/>
+   </a:folHlink>
+</a:clrScheme>
+

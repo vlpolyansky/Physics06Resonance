@@ -1,0 +1,16 @@
+fileVersion=1
+m=1.0
+k=4.0
+b=0.1
+beta=0.05
+w0=2.0
+F=10*cos(w*t)
+leftW=0.1
+rightW=10.0
+w=2.7164285
+firstIteration=true
+searchType=DELTA
+#graphRes=
+0
+#wasFract=
+0 
